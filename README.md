@@ -102,11 +102,7 @@ The goal of this project is to explore computer vision and gesture-based interac
 
 ## 👨‍💻 Developer
 
-**MD Moinuddin**
+**Saipraveena Nulu**
 
-- GitHub: [Moinuddin-3](https://github.com/Moinuddin-3)
-- Project Repository: [Air Draw Controller](https://github.com/Moinuddin-3/Air-Draw-Art-Studio)
-
----
 
 ⭐ If you find this project interesting, consider giving the repository a star!
